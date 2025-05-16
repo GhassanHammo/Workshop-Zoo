@@ -12,7 +12,7 @@ The Fullstack Zoo just hired some zookeeper interns who will be helping out for 
 
 ## Instructions
 
-Here are the types of animals at the zoo, along with their names:
+Here are the types of animals at the zoo, along with their names: Ghassan Hammo
 
 - Bears
   - Ollie
